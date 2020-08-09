@@ -3,3 +3,44 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+.box {
+	display: none;
+	width: 200px;
+	height: 200px;
+	background-color: #F00;
+}
+
+.box2 {
+	display: none;
+	width: 200px;
+	height: 200px;
+	background-color: #0f0;
+}
+
+.border {
+	border: 10px solid black;
+}
+
+.box1 {
+	background-color: #FFF;
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.bg1 {
+	background-color: #FAA;
+}
+
+.bg2 {
+	background-color: #fbb;
+}
+
+.bg3 {
+	background-color: #FCC;
+}
+
+.bg4 {
+	background-color: #FDD;
+}
